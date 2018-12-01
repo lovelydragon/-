@@ -14,12 +14,15 @@
   2）双指针移动
     1.首先
 5. 举一反三
-### 双指针
+# 双指针
 ##  有序数组的 Two Sum
-# 题目描述：在有序数组中找出两个数，使它们的和为 target。
+### 题目描述：在有序数组中找出两个数，使它们的和为 target。
   leetcode链接: https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/description/
   思路：在数组头和尾设两个指针，根据两个数的和与target比较来移动指针向中间靠拢
   
 
-## 
+## 两数平方和
+### 题目描述：判断一个数是否为两个数的平方和
+  leetcode链接：https://leetcode.com/problems/sum-of-square-numbers/description/
+  思路：在0设置一个指针，target的开方为另一个指针
 
